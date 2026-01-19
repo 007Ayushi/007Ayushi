@@ -1,8 +1,8 @@
 <!-- Hero Graphic -->
 <p align="center">
   <img
-    src="https://img.freepik.com/premium-photo/female-developer-background_665280-9650.jpg"
-    alt="Developer Graphic"
+    src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"
+    alt="Computer Work GIF"
     width="500"
   />
 </p>
@@ -75,7 +75,7 @@ I love building **efficient backend systems** and **responsive frontend applicat
 
 <p align="left">
 <a href="https://www.linkedin.com/in/guptaayushi7/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/></a>
-<a href="https://www.hackerrank.com/007ayushi" target="_blank"><img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" width="35" height="35"/></a>
+<a href="https://www.hackerrank.com/profile/guptaayushi9693" target="_blank"><img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" width="35" height="35"/></a>
 <a href="https://leetcode.com/u/ayushiguptaleetcode/" target="_blank"><img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="35" height="35"/></a>
 <a href="https://ayushi7.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="35" height="35"/></a>
 <a href="mailto:guptaayushi9693@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="35" height="35"/></a>
