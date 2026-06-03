@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayushi%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20MERN%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayushi%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20MERN%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ayushi+%F0%9F%91%8B;React.js+%7C+Node.js+%7C+MERN+Stack+Dev;650%2B+DSA+Problems+Solved+%E2%9A%A1;IBM+Hackathon+2025+Finalist+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Ayushi+%F0%9F%91%8B;React.js+%7C+Node.js+%7C+MERN+Stack+Dev;650%2B+DSA+Problems+Solved+%E2%9A%A1;IBM+Hackathon+2025+Finalist+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/007Ayushi/count.svg)
 
 </div>
 
@@ -15,8 +19,8 @@
 - ⚡ Solved **650+ DSA** problems on LeetCode & GeeksforGeeks
 - 🏆 **IBM Hackathon 2025 Finalist**
 - 🎖️ Awarded **100% B.Tech Scholarship** for academic excellence
-- 🥇 **Ranked 7th in college** & **18th in Jharkhand State** in Higher Secondary exams
-- 💡 Passionate about clean UI, REST APIs & real-time applications
+- 🥇 **Ranked 7th in college** & **18th in Jharkhand State** in Higher Secondary
+- 💡 Passionate about clean UI, REST APIs & real-time apps
 - 📍 Bengaluru, Karnataka
 
 > *"Aspire to inspire before you expire." ✨*
@@ -53,33 +57,84 @@
 
 ## 💼 Experience
 
-🟢 **Web Developer Intern** — Vlenzor Technologies Pvt. Ltd. *(Jun – Sep 2025)*
-- Developed responsive React components and improved UI functionality across web pages
-- Integrated REST APIs and optimized frontend performance
-
-🔵 **Web Developer Intern** — Dyizan *(Mar – Apr 2025)*
-- Developed and modified React pages, including routing and component updates
-- Fixed UI bugs and improved consistency across different screens
-
-🟣 **MERN Stack Intern** — EY Global Delivery Services & AICTE / Edunet Foundation *(Dec 2024 – Jan 2025)*
-- Built simple backend features and worked with APIs for data handling
-- Tested and verified API responses using Postman
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/source-code.png" width="40"/><br/>
+      <b>Vlenzor Technologies</b>
+    </td>
+    <td>
+      <b>🟢 Web Developer Intern</b> &nbsp; <code>Jun – Sep 2025</code><br/>
+      • Developed responsive React components & improved UI across web pages<br/>
+      • Integrated REST APIs & optimized frontend performance
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/web-design.png" width="40"/><br/>
+      <b>Dyizan</b>
+    </td>
+    <td>
+      <b>🔵 Web Developer Intern</b> &nbsp; <code>Mar – Apr 2025</code><br/>
+      • Developed & modified React pages with routing and component updates<br/>
+      • Fixed UI bugs & improved consistency across screens
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/ernst-and-young.png" width="40"/><br/>
+      <b>EY & AICTE</b>
+    </td>
+    <td>
+      <b>🟣 MERN Stack Intern</b> &nbsp; <code>Dec 2024 – Jan 2025</code><br/>
+      • Built backend features & worked with APIs for data handling<br/>
+      • Tested & verified API responses using Postman
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 [Shikshashii — Learning Platform](https://github.com/007Ayushi/Shikshashii)
-> MERN-based platform with authentication and role-based access control, REST APIs and responsive UI
-> **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB
-
-### 💬 [SyncTalk — Real Time Chat App](https://github.com/007Ayushi/SyncTalk)
-> Real-time communication using Socket.IO for instant messaging with optimized backend
-> **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB · Socket.IO
-
-### 🎥 [LiveSphere — Group Discussion Platform](https://github.com/007Ayushi/LiveSphere)
-> Real-time video discussion sessions with smooth collaboration backend APIs
-> **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/007Ayushi/Shikshashii">Shikshashii</a></h3>
+      <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br/><br/>
+      🎓 MERN-based learning platform with authentication, role-based access control & responsive UI
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/007Ayushi/SyncTalk">SyncTalk</a></h3>
+      <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io"/>
+      <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <br/><br/>
+      ⚡ Real-time chat app using Socket.IO for instant messaging with optimized backend
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎥 <a href="https://github.com/007Ayushi/LiveSphere">LiveSphere</a></h3>
+      <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br/><br/>
+      🎙️ Group discussion platform with real-time video sessions & smooth collaboration APIs
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/007Ayushi/Personal-Portfolio">Personal Portfolio</a></h3>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      💼 Personal developer portfolio showcasing projects, skills, and experience
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -107,7 +162,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007Ayushi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007Ayushi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -116,6 +171,28 @@
 <img src="https://streak-stats.demolab.com?user=007Ayushi&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=007Ayushi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/007Ayushi/007Ayushi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/007Ayushi/007Ayushi/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/007Ayushi/007Ayushi/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+> ⚙️ **Setup snake:** Add the workflow below to `.github/workflows/snake.yml` in your profile repo!
 
 ---
 
@@ -134,8 +211,6 @@
 ---
 
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/007Ayushi/count.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
