@@ -1,94 +1,131 @@
-<!-- Hero Graphic -->
-<p align="center">
-  <img
-    src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"
-    alt="Computer Work GIF"
-    width="500"
-  />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ayushi Gupta</h1>
-<h3 align="center">
-Aspiring Full-Stack Developer | Backend Enthusiast <br/>
-Currently Learning Python 🐍 and Backend Development
-</h3>
+<h3 align="center">🚀 Aspiring Frontend Web Developer | Full Stack | Python | Data Structures</h3>
 
 <p align="center">
-🌐 Portfolio: <a href="https://ayushi7.netlify.app/">ayushi7.netlify.app</a>  
-💼 GitHub: <a href="https://github.com/007Ayushi">github.com/007Ayushi</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React.js+%7C+Node.js+%7C+MERN+Stack;Building+Modern+Web+Applications;Passionate+about+Clean+UI+%26+UX;650%2B+DSA+Problems+Solved!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Ayushi Gupta**, a passionate **Full-Stack Developer** currently pursuing my B.Tech in Computer Science Engineering (2022–2026) at **Amity University, Ranchi** with a **CGPA of 9.11**.
+- 🎓 B.Tech CSE @ **Amity University, Ranchi** — CGPA: **9.04** | 2022–2026
+- 💼 Currently interning at **Vlenzor Technologies Pvt. Ltd.** as Web Developer
+- 🌱 Building with **React.js, Node.js, Express.js, MongoDB**
+- ⚡ Solved **650+ DSA** problems on LeetCode & GeeksforGeeks
+- 🏆 **IBM Hackathon 2025 Finalist**
+- 🎖️ Awarded **100% B.Tech Scholarship** for academic excellence
+- 📍 Bengaluru, Karnataka
+- 📫 Reach me at: **guptaayushi9693@gmail.com**
 
-I love building **efficient backend systems** and **responsive frontend applications**. I enjoy crafting clean, modular code and solving real-world problems. I am constantly learning new technologies and improving my problem-solving skills.  
-
----
-
-## 💻 Technical Expertise
-
-- **Languages:** Java, JavaScript, Python  
-- **Frontend:** HTML5, CSS3, React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB, MySQL  
-- **Core CS:** OOP, Data Structures & Algorithms, DBMS, Operating Systems  
-- **Tools:** Git, GitHub, Postman, VS Code, Netlify  
+> *"Aspire to inspire before you expire." ✨*
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-- **Python** – focusing on backend development, data structures, and algorithmic problem solving.
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ---
 
-## 🚀 Projects
+## 💼 Experience
 
-### **Shikshashii – A Modern Space for Learning & Growth**
-- Built a **full-stack learning platform** with role-based access control.  
-- Focused on **efficient backend systems** and smooth frontend experience.  
-- **Tech:** React.js, Node.js, Express.js, MongoDB  
-- 🔗 GitHub: [Shikshashii](https://github.com/007Ayushi/Shikshashii-A-modern-space-for-learning-growth)
-
-### **E-Commerce Backend System**
-- Developed a **scalable backend architecture** with Controller–Service–Repository pattern.  
-- Implemented **authentication & authorization**, database operations, and modular code.  
-- **Tech:** Node.js, Express.js, MongoDB  
-- 🔗 GitHub: [E-Commerce Backend](https://github.com/007Ayushi/E-Commerce-Backend)
+| Role | Company | Duration |
+|------|---------|----------|
+| 🟢 Web Developer Intern | Vlenzor Technologies Pvt. Ltd. | Jun – Sep 2025 |
+| 🔵 Web Developer Intern | Dyizan | Mar – Apr 2025 |
+| 🟣 MERN Stack Intern | EY Global Delivery Services & AICTE (Edunet Foundation) | Dec 2024 – Jan 2025 |
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🚀 Featured Projects
 
-- 🎓 Programming in Java — NPTEL (IIT Kharagpur)  
-- 🏅 HackerRank Certification: SQL (Basic), Problem-Solving (Basic)  
-- 🏆 Awarded **100% merit-based B.Tech scholarship** for academic excellence  
-- 🏁 Finalist — IBM National Hackathon 2025  
-- 🥇 Ranked 7th in college & 18th at state level in Higher Secondary exams  
-- 💻 Solved 300+ DSA problems on LeetCode & 250+ on GeeksforGeeks  
+### 📚 [Shikshashii - Learning Platform](https://github.com/007Ayushi/Shikshashii)
+> MERN-based platform with authentication and role-based access control  
+> **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB
+
+### 💬 [SyncTalk - Real Time Chat App](https://github.com/007Ayushi/SyncTalk)
+> Real-time communication system using Socket.IO for instant messaging  
+> **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB · Socket.IO
+
+### 🎥 [LiveSphere - Group Discussion Platform](https://github.com/007Ayushi/LiveSphere)
+> Real-time communication and video discussion sessions  
+> **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **IBM Hackathon 2025 Finalist**
+- ⚡ **Solved 650+ DSA problems** on LeetCode & GeeksforGeeks
+- 🎓 **100% B.Tech Scholarship** for academic excellence
+- 🏅 **Ranked 7th in college** & **18th in Jharkhand State** in Class 12
+- 🥉 **District Rank 3** in Class 10 Board Examinations
+
+---
+
+## 📜 Certifications
+
+- 🟡 **Programming in Java** — NPTEL (IIT Kharagpur)
+- 🟢 **SQL (Basic)** — HackerRank
+- 🟢 **Java (Basic)** — HackerRank
+- 🔴 **Data Structures & Algorithms** — GeeksforGeeks
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007Ayushi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=007Ayushi&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Get In Touch
 
 <p align="left">
-<a href="https://www.linkedin.com/in/guptaayushi7/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/></a>
-<a href="https://www.hackerrank.com/profile/guptaayushi9693" target="_blank"><img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" width="35" height="35"/></a>
-<a href="https://leetcode.com/u/ayushiguptaleetcode/" target="_blank"><img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="35" height="35"/></a>
-<a href="https://ayushi7.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="35" height="35"/></a>
-<a href="mailto:guptaayushi9693@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="35" height="35"/></a>
+  <a href="https://www.linkedin.com/in/ayushi-gupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:guptaayushi9693@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=007ayushi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=007ayushi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007ayushi&" alt="GitHub Streak" /></p>
-
----
-
-*“Aspire to inspire before you expire.”* ✨
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=007Ayushi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
