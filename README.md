@@ -10,7 +10,6 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE @ **Amity University, Ranchi** — CGPA: **9.04** | 2022–2026
-- 💼 Currently interning at **Vlenzor Technologies Pvt. Ltd.** as Web Developer
 - 🌱 Building with **React.js, Node.js, Express.js, MongoDB**
 - ⚡ Solved **650+ DSA** problems on LeetCode & GeeksforGeeks
 - 🏆 **IBM Hackathon 2025 Finalist**
@@ -51,26 +50,32 @@
 
 ## 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| 🟢 Web Developer Intern | Vlenzor Technologies Pvt. Ltd. | Jun – Sep 2025 |
-| 🔵 Web Developer Intern | Dyizan | Mar – Apr 2025 |
-| 🟣 MERN Stack Intern | EY Global Delivery Services & AICTE (Edunet Foundation) | Dec 2024 – Jan 2025 |
+🟢 **Web Developer Intern** @ Vlenzor Technologies Pvt. Ltd. *(Jun – Sep 2025)*
+- Developed responsive React components and improved UI functionality across web pages
+- Integrated REST APIs and optimized frontend performance to enhance user experience
+
+🔵 **Web Developer Intern** @ Dyizan *(Mar – Apr 2025)*
+- Developed and modified React pages, including routing and component updates
+- Fixed UI bugs and improved consistency across different screens
+
+🟣 **MERN Stack Intern** @ EY Global Delivery Services & AICTE — Edunet Foundation *(Dec 2024 – Jan 2025)*
+- Built simple backend features and worked with APIs for data handling
+- Tested and verified API responses using Postman during development
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📚 [Shikshashii - Learning Platform](https://github.com/007Ayushi/Shikshashii)
-> MERN-based platform with authentication and role-based access control  
+> MERN-based platform with authentication and role-based access control
 > **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB
 
 ### 💬 [SyncTalk - Real Time Chat App](https://github.com/007Ayushi/SyncTalk)
-> Real-time communication system using Socket.IO for instant messaging  
+> Real-time communication system using Socket.IO for instant messaging
 > **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB · Socket.IO
 
 ### 🎥 [LiveSphere - Group Discussion Platform](https://github.com/007Ayushi/LiveSphere)
-> Real-time communication and video discussion sessions  
+> Real-time communication and video discussion sessions
 > **Tech:** ReactJS · NodeJS · ExpressJS · MongoDB
 
 ---
@@ -97,12 +102,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007Ayushi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007Ayushi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=007Ayushi&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=007Ayushi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -110,17 +115,20 @@
 ## 📫 Get In Touch
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayushi-gupta" target="_blank">
+  <a href="https://www.linkedin.com/in/ayushi-gupta-b2a3b5257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:guptaayushi9693@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/ayushi_g123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
+  <a href="https://www.hackerrank.com/profile/guptaayushi9693" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/guptaayushi9693/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
