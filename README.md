@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/og-image-r5sOrY1rOQ.png" width="320" alt="Girl on Computer with Idea"/>
+
+<br/>
+
 ![Visitor Count](https://profile-counter.glitch.me/007Ayushi/count.svg)
 
 </div>
@@ -16,7 +20,7 @@
 
 - 🎓 B.Tech CSE @ **Amity University, Ranchi** — CGPA: **9.04** | 2022–2026
 - 🌱 Currently building with **React.js, Node.js, Express.js, MongoDB**
-- ⚡ Solved **650+ DSA** problems on LeetCode & GeeksforGeeks
+- ⚡ Solved **650+ DSA** problems on [LeetCode](https://leetcode.com/u/AyushiGupta07/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/guptaayushi9693/)
 - 🏆 **IBM Hackathon 2025 Finalist**
 - 🎖️ Awarded **100% B.Tech Scholarship** for academic excellence
 - 🥇 **Ranked 7th in college** & **18th in Jharkhand State** in Higher Secondary
@@ -57,41 +61,16 @@
 
 ## 💼 Experience
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/source-code.png" width="40"/><br/>
-      <b>Vlenzor Technologies</b>
-    </td>
-    <td>
-      <b>🟢 Web Developer Intern</b> &nbsp; <code>Jun – Sep 2025</code><br/>
-      • Developed responsive React components & improved UI across web pages<br/>
-      • Integrated REST APIs & optimized frontend performance
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/web-design.png" width="40"/><br/>
-      <b>Dyizan</b>
-    </td>
-    <td>
-      <b>🔵 Web Developer Intern</b> &nbsp; <code>Mar – Apr 2025</code><br/>
-      • Developed & modified React pages with routing and component updates<br/>
-      • Fixed UI bugs & improved consistency across screens
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/ernst-and-young.png" width="40"/><br/>
-      <b>EY & AICTE</b>
-    </td>
-    <td>
-      <b>🟣 MERN Stack Intern</b> &nbsp; <code>Dec 2024 – Jan 2025</code><br/>
-      • Built backend features & worked with APIs for data handling<br/>
-      • Tested & verified API responses using Postman
-    </td>
-  </tr>
-</table>
+```
+Jun 2025 – Sep 2025   ●── Web Developer Intern @ Vlenzor Technologies Pvt. Ltd.
+                      │   ↳ Built responsive React pages & integrated REST APIs
+                      │
+Mar 2025 – Apr 2025   ●── Web Developer Intern @ Dyizan
+                      │   ↳ React components, routing, debugging & Git workflows
+                      │
+Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Foundation)
+                          ↳ Backend APIs, full-stack features & Postman testing
+```
 
 ---
 
@@ -100,30 +79,48 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/007Ayushi/Shikshashii">Shikshashii</a></h3>
+      <h3>📚 <a href="https://github.com/007Ayushi/Shikshashii-A-modern-space-for-learning-growth">Shikshashii</a></h3>
       <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
       <br/><br/>
       🎓 MERN-based learning platform with authentication, role-based access control & responsive UI
+      <br/><br/>
+      <a href="https://studynotion-frontend-updated.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐 Live Demo-4285F4?style=for-the-badge&logoColor=white"/>
+      </a>
+      <a href="https://github.com/007Ayushi/Shikshashii-A-modern-space-for-learning-growth">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/007Ayushi/SyncTalk">SyncTalk</a></h3>
+      <h3>💬 <a href="https://github.com/007Ayushi/Real-Time-Chat-App">SyncTalk</a></h3>
       <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io"/>
       <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <br/><br/>
       ⚡ Real-time chat app using Socket.IO for instant messaging with optimized backend
+      <br/><br/>
+      <a href="https://real-time-frontend-app.onrender.com">
+        <img src="https://img.shields.io/badge/🌐 Live Demo-4285F4?style=for-the-badge&logoColor=white"/>
+      </a>
+      <a href="https://github.com/007Ayushi/Real-Time-Chat-App">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎥 <a href="https://github.com/007Ayushi/LiveSphere">LiveSphere</a></h3>
+      <h3>🎥 <a href="https://github.com/007Ayushi/live-class-project">LiveSphere</a></h3>
       <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
       <br/><br/>
       🎙️ Group discussion platform with real-time video sessions & smooth collaboration APIs
+      <br/><br/>
+      <a href="https://github.com/007Ayushi/live-class-project">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/007Ayushi/Personal-Portfolio">Personal Portfolio</a></h3>
@@ -132,6 +129,10 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <br/><br/>
       💼 Personal developer portfolio showcasing projects, skills, and experience
+      <br/><br/>
+      <a href="https://github.com/007Ayushi/Personal-Portfolio">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -141,7 +142,7 @@
 ## 🏆 Achievements
 
 - 🥇 **IBM Hackathon 2025 Finalist**
-- ⚡ **Solved 650+ DSA problems** on LeetCode & GeeksforGeeks
+- ⚡ **Solved 650+ DSA problems** on [LeetCode](https://leetcode.com/u/AyushiGupta07/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/guptaayushi9693/)
 - 🎓 **100% B.Tech Scholarship** for academic excellence
 - 🏅 **Ranked 7th in college** & **18th in Jharkhand State** in Class 12
 - 🥉 **District Rank 3** in Class 10 Board Examinations
@@ -150,10 +151,10 @@
 
 ## 📜 Certifications
 
-- 🟡 **Programming in Java** — NPTEL (IIT Kharagpur)
-- 🟢 **SQL (Basic)** — HackerRank
-- 🟢 **Java (Basic)** — HackerRank
-- 🔴 **Data Structures & Algorithms** — GeeksforGeeks
+- 🟡 **[Programming in Java](https://nptel.ac.in/)** — NPTEL (IIT Kharagpur)
+- 🟢 **[SQL (Basic)](https://www.hackerrank.com/profile/guptaayushi9693)** — HackerRank
+- 🟢 **[Java (Basic)](https://www.hackerrank.com/profile/guptaayushi9693)** — HackerRank
+- 🔴 **[Data Structures & Algorithms](https://www.geeksforgeeks.org/user/guptaayushi9693/)** — GeeksforGeeks
 
 ---
 
@@ -192,7 +193,7 @@
 
 </div>
 
-
+---
 
 ## 📫 Get In Touch
 
