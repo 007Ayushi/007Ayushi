@@ -162,7 +162,7 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=stars"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007Ayushi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
@@ -176,6 +176,43 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=007Ayushi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌟 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=007Ayushi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+</div>
+
+---
+
+## 📈 Profile At a Glance
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/007Ayushi?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1b27&label=Total%20Stars)
+![Followers](https://img.shields.io/github/followers/007Ayushi?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1b27&label=Followers)
+![Following](https://img.shields.io/github/following/007Ayushi?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1b27&label=Following)
+
+</div>
+
+---
+
+## 🤝 Open to Collaborate
+
+<div align="center">
+
+```
+✨ I'm actively looking for exciting opportunities!
+💼 Open to: Full Stack Dev roles | Internships | Freelance Projects
+🛠️ Can help with: React.js • Node.js • MERN Stack • REST APIs
+📬 Reach me at: guptaayushi9693@gmail.com
+```
 
 </div>
 
