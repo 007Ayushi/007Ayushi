@@ -6,11 +6,11 @@
 
 <br/>
 
-<img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/og-image-r5sOrY1rOQ.png" width="320" alt="Girl on Computer with Idea"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Girl coding with idea"/>
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/007Ayushi/count.svg)
+[![](https://visitcount.itsvg.in/api?id=007Ayushi&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -20,14 +20,14 @@
 
 - 🎓 B.Tech CSE @ **Amity University, Ranchi** — CGPA: **9.04** | 2022–2026
 - 🌱 Currently building with **React.js, Node.js, Express.js, MongoDB**
-- ⚡ Solved **650+ DSA** problems on [LeetCode](https://leetcode.com/u/AyushiGupta07/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/guptaayushi9693/)
+- ⚡ Solved **650+ DSA** problems on [LeetCode](https://leetcode.com/u/ayushiguptaLeetCode/) & [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushigupta07)
 - 🏆 **IBM Hackathon 2025 Finalist**
 - 🎖️ Awarded **100% B.Tech Scholarship** for academic excellence
 - 🥇 **Ranked 7th in college** & **18th in Jharkhand State** in Higher Secondary
 - 💡 Passionate about clean UI, REST APIs & real-time apps
 - 📍 Bengaluru, Karnataka
 
-> *"Aspire to inspire before you expire." ✨*
+> *"First, solve the problem. Then, write the code." — John Johnson 💻*
 
 ---
 
@@ -142,7 +142,7 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 ## 🏆 Achievements
 
 - 🥇 **IBM Hackathon 2025 Finalist**
-- ⚡ **Solved 650+ DSA problems** on [LeetCode](https://leetcode.com/u/AyushiGupta07/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/guptaayushi9693/)
+- ⚡ **Solved 650+ DSA problems** on [LeetCode](https://leetcode.com/u/ayushiguptaLeetCode/) & [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushigupta07)
 - 🎓 **100% B.Tech Scholarship** for academic excellence
 - 🏅 **Ranked 7th in college** & **18th in Jharkhand State** in Class 12
 - 🥉 **District Rank 3** in Class 10 Board Examinations
@@ -151,10 +151,10 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 ## 📜 Certifications
 
-- 🟡 **[Programming in Java](https://nptel.ac.in/)** — NPTEL (IIT Kharagpur)
-- 🟢 **[SQL (Basic)](https://www.hackerrank.com/profile/guptaayushi9693)** — HackerRank
-- 🟢 **[Java (Basic)](https://www.hackerrank.com/profile/guptaayushi9693)** — HackerRank
-- 🔴 **[Data Structures & Algorithms](https://www.geeksforgeeks.org/user/guptaayushi9693/)** — GeeksforGeeks
+- 🟡 **Programming in Java** — NPTEL (IIT Kharagpur)
+- 🟢 **SQL (Basic)** — HackerRank
+- 🟢 **Java (Basic)** — HackerRank
+- 🔴 **Data Structures & Algorithms** — GeeksforGeeks
 
 ---
 
@@ -181,29 +181,15 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/007Ayushi/007Ayushi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/007Ayushi/007Ayushi/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/007Ayushi/007Ayushi/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-gupta-738b75259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptaayushi7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaayushi9693@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AyushiGupta07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushiguptaLeetCode/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/guptaayushi9693)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/guptaayushi9693/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ayushigupta07)
 
 </div>
 
