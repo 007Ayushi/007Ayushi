@@ -36,7 +36,7 @@
 - 💡 Passionate about clean UI, REST APIs & real-time apps
 - 📍 Bengaluru, Karnataka
 
-> *"First, solve the problem. Then, write the code." — John Johnson 💻*
+> *"She believed she could, so she did." 💫*
 
 ---
 
@@ -190,15 +190,7 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 ---
 
-## 🌟 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=007Ayushi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
 
 
 ## 🤝 Open to Collaborate
