@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayushi%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20MERN%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ayushi%20Gupta&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Aspiring%20Full%20Stack%20%7C%20Frontend%20%7C%20Backend%20%7C%20AI%20Engineer&descAlignY=62&descSize=22"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Ayushi+%F0%9F%91%8B;React.js+%7C+Node.js+%7C+MERN+Stack+Dev;650%2B+DSA+Problems+Solved+%E2%9A%A1;IBM+Hackathon+2025+Finalist+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+</div>
 
-<br/>
+<div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Girl coding with idea"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=👋+Hey+there!+I'm+Ayushi+Gupta;💻+Aspiring+Frontend+Developer;🔧+Aspiring+Backend+Developer;🌐+Aspiring+Full+Stack+Developer;🤖+Aspiring+AI+Engineer;⚡+650%2B+DSA+Problems+Solved;🏆+IBM+Hackathon+2025+Finalist;🚀+Always+Learning%2C+Always+Building!)](https://git.io/typing-svg)
 
-<br/>
+</div>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="300" style="object-fit:cover;" alt="Female Developer Coding"/>
+
+</div>
+
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=007Ayushi&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -20,6 +28,7 @@
 
 - 🎓 B.Tech CSE @ **Amity University, Ranchi** — CGPA: **9.04** | 2022–2026
 - 🌱 Currently building with **React.js, Node.js, Express.js, MongoDB**
+- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
 - ⚡ Solved **650+ DSA** problems on [LeetCode](https://leetcode.com/u/ayushiguptaLeetCode/) & [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushigupta07)
 - 🏆 **IBM Hackathon 2025 Finalist**
 - 🎖️ Awarded **100% B.Tech Scholarship** for academic excellence
@@ -162,7 +171,7 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=stars"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=007Ayushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=stars&rank_icon=github"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007Ayushi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
@@ -185,7 +194,7 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=007Ayushi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=007Ayushi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -197,7 +206,6 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 ![Stars](https://img.shields.io/github/stars/007Ayushi?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1b27&label=Total%20Stars)
 ![Followers](https://img.shields.io/github/followers/007Ayushi?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1b27&label=Followers)
-![Following](https://img.shields.io/github/following/007Ayushi?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1b27&label=Following)
 
 </div>
 
@@ -234,6 +242,6 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
