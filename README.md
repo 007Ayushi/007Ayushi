@@ -200,16 +200,6 @@ Dec 2024 – Jan 2025   ●── MERN Stack Intern @ EY GDS & AICTE (Edunet Fou
 
 ---
 
-## 📈 Profile At a Glance
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/007Ayushi?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1b27&label=Total%20Stars)
-![Followers](https://img.shields.io/github/followers/007Ayushi?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1b27&label=Followers)
-
-</div>
-
----
 
 ## 🤝 Open to Collaborate
 
